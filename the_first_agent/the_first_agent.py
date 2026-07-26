@@ -1,6 +1,7 @@
 import re
 from available_tools import *
 from OpenAICompatibleClient import *
+from AGENT_SYSTEM_PROMPT import *
 
 # --- 1. 配置LLM客户端 ---
 # 请根据您使用的服务，将这里替换成对应的凭证和地址
